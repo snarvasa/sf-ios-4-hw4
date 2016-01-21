@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C4427519A4E6D284AA29F8BC147EC138BC98FAE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C4427519A4E6D284AA29F8BC147EC138BC98FAE" : 0,
+    "5E0413E6CEE2951C6191F295236E161576313CE5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2D4A96A9-A2D5-4525-92EC-8C984944BCB7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C4427519A4E6D284AA29F8BC147EC138BC98FAE" : "ga-sf-ios4-top-movies\/",
+    "5E0413E6CEE2951C6191F295236E161576313CE5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TopMovies",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TopMovies\/TopMovies.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/snarvasa\/ga-sf-ios4-top-movies",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C4427519A4E6D284AA29F8BC147EC138BC98FAE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ga-students\/sf-ios-4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E0413E6CEE2951C6191F295236E161576313CE5"
+    }
+  ]
+}
